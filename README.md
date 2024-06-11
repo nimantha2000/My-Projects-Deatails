@@ -9,7 +9,7 @@ This repository contains a list of some of my important projects.
 
 ## Projects
 
-### Flask Chatbot](https://github.com/nimantha2000/Flask-Chatbot-with-ML)
+### [Flask Chatbot](https://github.com/nimantha2000/Flask-Chatbot-with-ML)
 Description: A brief description of Project Name 1.
 
 ### [Diabetes Prediction System With Most Significant Factors](https://github.com/nimantha2000/Diabetes_Prediction_system_FYP)
