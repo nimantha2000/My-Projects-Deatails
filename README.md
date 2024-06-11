@@ -1,8 +1,7 @@
 # Profile
-### Web Site -
-### Gmail -
-### Github -
-### Portfolio -
+### Gmail - nimanthakj@gmail.com
+### Github - https://github.com/nimantha2000/
+### Portfolio - https://nimantha2000.github.io/NimanthaPortfoio.github.io/
 
 # My GitHub Projects
 
