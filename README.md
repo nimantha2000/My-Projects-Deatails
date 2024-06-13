@@ -36,7 +36,7 @@ Description: A brief description of Project Name 3.
 Description: A brief description of Project Name 3.
 
 ### [Extension Converter](https://github.com/nimantha2000/Extension_Converter)
-Description: A brief description of Project Name 3.
+This Python script converts images from one format to another. It utilizes the Python Imaging Library (PIL) to open and save images.
 
 ### [Python Data Visualizing With Real-Time Updating](https://github.com/nimantha2000/Python_data_visualizing_with_real_time_updating)
 Description: A brief description of Project Name 3.
