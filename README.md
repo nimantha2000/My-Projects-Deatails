@@ -15,7 +15,7 @@ Description: A brief description of Project Name 1.
 ### [Diabetes Prediction System With Most Significant Factors](https://github.com/nimantha2000/Diabetes_Prediction_system_FYP)
 This repository contains the source code for a Diabetes Prediction System. The system is designed to predict the likelihood of an individual having diabetes based on significant features including age, BMI, insulin, and glucose level. It utilizes machine learning algorithms to analyze input data and provide predictions. In this application use SVM and Logistic Regression models for prediction and in training time gets the accuracy of those two models and the web application uses the most accurate one for prediction.
 ### [Student Attendance Manegement system](https://github.com/nimantha2000/student_attendents_manegement_System)
-Description: A brief description of Project Name 2.
+This project is a Student Attendance Management System designed to facilitate attendance tracking for students. It allows three types of users: admin, student, and lecturer, each with their respective roles and permissions.
 
 ### [Web Scrapper](https://github.com/nimantha2000/WebScrapper_UsingPython )
 Description: A brief description of Project Name 3.
