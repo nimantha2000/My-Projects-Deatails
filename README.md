@@ -26,7 +26,7 @@ Description: A brief description of Project Name 3.
 ### [Token Generation and Verifying API](https://github.com/nimantha2000/Simpale-Token-Generating-and-Verifying-API)
 Description: A brief description of Project Name 3.
 
-### [Power Bi Employment Data Dashboard](https://github.com/nimantha2000/PowerBI_EmployeeDataDashboard )
+### [Power BI Employment Data Dashboard](https://github.com/nimantha2000/PowerBI_EmployeeDataDashboard )
 Description: A brief description of Project Name 3.
 
 ### [Find Top Rating Courses in Coursera](https://github.com/nimantha2000/Find_Top_Most_Courses_In_Coursera )
